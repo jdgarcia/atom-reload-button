@@ -2,10 +2,11 @@
   "name": "reload-button",
   "main": "./lib/reload-button",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Adds a window reload button to your status bar.",
   "keywords": [
+    "reload"
   ],
-  "repository": "https://github.com/atom/reload-button",
+  "repository": "https://github.com/jdgarcia/atom-reload-button",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
